@@ -1,6 +1,7 @@
 # Security Policy
 
 ## Reporting a Vulnerability
+yes
 
 Thank you for helping keep NodeWarden safe.
 
